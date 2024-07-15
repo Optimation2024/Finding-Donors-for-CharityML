@@ -1,7 +1,7 @@
 # tests/test_model.py
 
 import pytest
-from src.model import  predict
+from model import  predict
 
 
 def test_predict():
